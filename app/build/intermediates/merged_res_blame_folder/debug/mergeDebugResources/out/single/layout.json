@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-mergeDebugResources-48:\\layout\\movie_item_layout.xml",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\layout\\movie_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-mergeDebugResources-48:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "com.ilustris.theoneapptorulethemall.app-mergeDebugResources-48:/layout/fragment_books.xml",
+        "source": "com.ilustris.theoneapptorulethemall.app-main-51:/layout/fragment_books.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-mergeDebugResources-48:\\layout\\fragment_movies.xml",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\layout\\fragment_movies.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-mergeDebugResources-48:\\layout\\race_pager_layout.xml",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\layout\\race_pager_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-mergeDebugResources-48:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-mergeDebugResources-48:\\layout\\fragment_notifications.xml",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-mergeDebugResources-48:\\layout\\character_item_layout.xml",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\layout\\character_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-mergeDebugResources-48:\\layout\\fragment_dashboard.xml",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\layout\\fragment_dashboard.xml"
+    }
+]

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">The one app to rule them all</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_books">books</string>
+    <string name="title_movieroll">movie roll</string>
+    <string name="title_witchhat">witch hat</string>
+</resources>

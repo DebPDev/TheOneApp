@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\drawable_crossbow_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\drawable\\crossbow_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\drawable_dragon_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\drawable\\dragon_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\drawable_werewolf_5_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\drawable\\werewolf_5_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\font_medievalsharp.ttf.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\font\\medievalsharp.ttf"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\layout_movie_item_layout.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\layout\\movie_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\drawable_rock_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\drawable\\rock_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\drawable_fellowship.png.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\drawable\\fellowship.png"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\drawable_treeoflive.png.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\drawable\\treeoflive.png"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\drawable_ic_book_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\drawable\\ic_book_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\drawable_viking_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\drawable\\viking_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\drawable_sword_origami_paper_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\drawable\\sword_origami_paper_svgrepo_com.xml"
+    },
+    {
+        "merged": "com.ilustris.theoneapptorulethemall.app-debug-49:/layout_fragment_books.xml.flat",
+        "source": "com.ilustris.theoneapptorulethemall.app-main-51:/layout/fragment_books.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\drawable_p30793_p_v8_am.jpg.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\drawable\\p30793_p_v8_am.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\drawable_flail_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\drawable\\flail_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\layout_character_item_layout.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\layout\\character_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\drawable_leaf_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\drawable\\leaf_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\layout_fragment_notifications.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\drawable_baseline_arrow_forward_ios_24.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\drawable\\baseline_arrow_forward_ios_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\drawable_hobbit_door_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\drawable\\hobbit_door_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\layout_race_pager_layout.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\layout\\race_pager_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\layout_fragment_movies.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\layout\\fragment_movies.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\drawable_ic_movie_film_roll_for_movie_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\drawable\\ic_movie_film_roll_for_movie_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\drawable_elf.png.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\drawable\\elf.png"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\drawable_axe_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\drawable\\axe_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\drawable_ic_witch_hat_1_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\drawable\\ic_witch_hat_1_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\drawable_wizard_hat_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\drawable\\wizard_hat_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\drawable_arrow_right_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\drawable\\arrow_right_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\drawable_tree_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\drawable\\tree_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-debug-49:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\cacai\\.gradle\\daemon\\8.6\\com.ilustris.theoneapptorulethemall.app-main-51:\\menu\\bottom_nav_menu.xml"
+    }
+]

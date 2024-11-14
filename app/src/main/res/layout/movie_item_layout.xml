@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+    <androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="8dp"
+    card_view:cardCornerRadius="16dp"
+    card_view:cardElevation="16dp"
+    card_view:layout_goneMarginStart="14dp">
+
+
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <ImageView
+        android:id="@+id/movieCover"
+        android:layout_width="match_parent"
+        android:layout_height="480dp"
+        android:scaleType="fitXY"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        android:src="@drawable/fellowship" />
+
+    <TextView
+                android:id="@+id/movieName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="24sp"
+                android:layout_marginTop="16dp"
+                android:text="A sociedade do anel"
+                android:layout_margin="8dp" />
+
+    <TextView
+        android:id="@+id/movieDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lorem ipsum dolor sit amet. Et facilis amet id commodi sint et commodi officia qui expedita velit. Quo explicabo dolorem eos debitis sunt a galisum temporibus a veniam ipsam ut repellat consectetur! Qui incidunt cupiditate et maiores distinctio et quam sint. Sed illo debitis qui voluptas deleniti id possimus soluta."
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        />
+
+    <TextView
+        android:id="@+id/textWithIcon"
+        android:layout_marginTop="28dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawablePadding="8dp"
+        android:text="Read"
+        android:textColor="@color/cardview_dark_background"
+        android:textSize="16sp"
+        android:drawableEnd="@drawable/arrow_right_svgrepo_com"
+        android:layout_marginLeft="8dp"
+        android:layout_marginBottom="16dp"
+        />
+
+
+
+</LinearLayout>
+
+</androidx.cardview.widget.CardView>
